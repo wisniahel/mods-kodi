@@ -1,4 +1,5 @@
 # Download Beta Repository here:
+NOTE! Please uninstall official repo before installing beta.
 https://github.com/Mariusz89B/mods-kodi/raw/master/repository.mods-kodi/repository.mods-kodi-0.1.3.zip
 
 # Supported TV-services
