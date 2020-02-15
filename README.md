@@ -1,6 +1,21 @@
 # Download Beta Repository here:
+NOTE! Please uninstall official repo before installing beta.
+
 https://github.com/Mariusz89B/mods-kodi/raw/master/repository.mods-kodi/repository.mods-kodi-0.1.3.zip
 
+# Supported TV-services
+
+* C More (In progress)
+* Cyfrowy Polsat GO
+* France TV
+* GoldVOD TV
+* Hejo TV
+* Internetowa.ws
+* Ipla
+* nc+ GO
+* WP Pilot
+* Weeb TV
+* M3U playlist
 
 # Mods Kodi
 
