@@ -5,7 +5,7 @@ https://github.com/Mariusz89B/mods-kodi/raw/master/repository.mods-kodi/reposito
 
 # Supported TV-services
 
-* C More (In progress)
+* C More
 * Cyfrowy Polsat GO
 * France TV
 * GoldVOD TV
