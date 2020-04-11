@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="script.mtvguide" name="m-TVGuide [COLOR gold][B]EPG[/B][/COLOR]" version="8.1.997" provider-name="Twinther, modified by team Mods-Kodi">
+<addon id="script.mtvguide" name="m-TVGuide [COLOR gold][B]EPG[/B][/COLOR]" version="8.2" provider-name="Twinther, modified by team Mods-Kodi">
 	<requires>
-		<import addon="xbmc.addon" version="13.0.0"/>
-		<import addon="xbmc.python" version="2.25.0"/>
-		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
+		<import addon="xbmc.addon" version="17.9.910"/>
+		<import addon="script.module.inputstreamhelper" />
 		<import addon="script.module.simplejson" />
-		<import addon="script.module.elementtree" />
 		<import addon="script.module.requests" />
 		<import addon="script.module.dateutil" />
 		<import addon="script.module.pil" />
         <import addon="script.module.beautifulsoup4" />
-		<import addon="script.extendedinfo" />
 		<import addon="script.module.parsedom" />
-		<import addon="script.module.routing" version="0.2.0" />
-		<import addon="script.module.iso8601" version="0.1.11" />
+		<import addon="script.module.routing" />
+		<import addon="script.module.iso8601" />
+	<!--<import addon="script.module.youtube.dl" />-->
 	</requires>
 	<extension point="xbmc.python.script" library="addon.py">
 		<provides>video</provides>
@@ -33,18 +31,20 @@
 		<forum>http://mods-kodi.pl/forum/</forum>
 		<website>http://mods-kodi.pl/</website>
 		<email>site@mods-kodi.pl</email>
-	<news>
-v8.2.0 (2019-07-23)
+	<news>v8.2.0 (2020-04-11)
+- Migration to Python 3 (Kodi Matrix).
+- Introduced new translation system for (Kodi Matrix).
+- New TV services.
+- Added configuration tutorial.
 - Dynamic background and color.
 - A new time progress bar.
-- Introduced a new translation system for Kodi v19 (strings.po).
 - New controls displaying time information.
 - New menu of favorite channels from other plugins (You will not need to assign channel to EPG).
 - Built-in program title Youtube search function.
 - Font addon dependency installation.
 - Selection of your favorite group in main EPG.
 - Support for 4K / UHD channels.
-	
+
 v8.1.1 (2019-05-05)
 - Fix after creating favorite group, name is shown below in select control.
 - New control id for next program, time remaining and time passed.
