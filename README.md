@@ -7,6 +7,7 @@ https://github.com/Mariusz89B/mods-kodi/raw/master/repository.mods-kodi/reposito
 
 * C More
 * Cyfrowy Polsat GO
+* Ekranik TV
 * France TV
 * GoldVOD TV
 * Hejo TV
