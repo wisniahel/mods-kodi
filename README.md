@@ -7,6 +7,7 @@ https://github.com/Mariusz89B/mods-kodi/raw/master/repository.mods-kodi/reposito
 
 * C More
 * Cyfrowy Polsat GO
+* Ekranik TV
 * France TV
 * GoldVOD TV
 * Hejo TV
@@ -39,6 +40,8 @@ m-TVGuide grew among the public being one of the most user friendly television g
 * Maly95
 * Zaqwa
 * Kapiszon53
+* Mbebe
+* Primaeval
 
 **Screenshots**
 
